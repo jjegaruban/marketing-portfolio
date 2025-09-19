@@ -26,28 +26,28 @@ const About = () => {
         {/* Social Links */}
         <div className="flex space-x-4 mt-10">
           <a
-            href="https://web.facebook.com/profile.php?id=61571489954994" // Replace with your Facebook URL
+            href="" // Replace with your Facebook URL
             target="_blank"
             rel="noopener noreferrer"
           >
             <MdFacebook className="social-btn" />
           </a>
           <a
-            href="https://www.instagram.com/socialvault.lk/" // Replace with your Instagram URL
+            href="" // Replace with your Instagram URL
             target="_blank"
             rel="noopener noreferrer"
           >
             <AiFillInstagram className="social-btn" />
           </a>
           <a
-            href="https://github.com/jjegaruban" // Replace with your GitHub URL
+            href="" // Replace with your GitHub URL
             target="_blank"
             rel="noopener noreferrer"
           >
             <AiFillGithub className="social-btn" />
           </a>
           <a
-            href="https://www.linkedin.com/in/jeyakumar-jegaruban-47676328b/" // Replace with your LinkedIn URL
+            href="" // Replace with your LinkedIn URL
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -60,7 +60,7 @@ const About = () => {
           <a href="#" className="primary-btn">
             Download Resume
           </a>
-          <a href="tel:+94750543148" className="outline-btn">
+          <a href="tel:+947464363" className="outline-btn">
             Contact
           </a>
         </div>

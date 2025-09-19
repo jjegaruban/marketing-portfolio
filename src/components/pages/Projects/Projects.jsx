@@ -1,7 +1,7 @@
 import React from "react";
 import Heading from "../../HelperComp/Heading.jsx";
 import insta1 from "../../../assets/insta1.jpg"
-import insta2 from "../../../assets/insta2.jpg"
+
 
 const Projects = () => {
   return (
@@ -33,7 +33,7 @@ const Projects = () => {
             className="w-1/3 h-auto rounded-lg shadow-md"
           />
           <img
-            src={insta2}
+            src={insta1}
             alt="Edit 2"
             className="w-1/3 h-auto rounded-lg shadow-md"
           />
@@ -41,7 +41,7 @@ const Projects = () => {
 
         <div className="text-center mt-6">
           <a
-            href="https://www.instagram.com/aura.editz._/"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             className=""
